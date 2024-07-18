@@ -16,7 +16,6 @@ export default function Photos(props) {
                     alt=""
                     rel="noreferrer"
                   />
-                  ;
                 </a>
               </div>
             );
